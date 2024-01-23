@@ -511,8 +511,9 @@ function nav() {
 			pannie.style.visibility = "visible";
 
 			croix.addEventListener('click', ()=> {
-				shop.style.display = "inline-block";
+				shop.style.display = "inline-flex";
 				shop.style.visibility = "visible";
+				shop.style.flexWrap = "wrap";
 				//pannie.style.display = "none";
 				//pannie.style.visibility = "hidden";
 				croix.style.display = "none";
