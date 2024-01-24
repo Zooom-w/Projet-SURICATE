@@ -21,3 +21,6 @@ J'ai choisi le thé, car pour une commercialisation pure et humaine il est primo
 
 1. Clonez ce référentiel sur votre machine locale.
 
+![Screenshot 2024-01-24 at 10-07-33 Boutique en ligne](https://github.com/Zooom-w/Projet-SURICATE/assets/148760503/42e56b37-e8f3-4933-a7fc-7debb3ccc84d)
+
+
